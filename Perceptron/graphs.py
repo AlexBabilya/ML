@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 import numpy as np
 
-from perceptron import Perceptron
+from algo import Perceptron
 
 
 class PerceptronGraph:
